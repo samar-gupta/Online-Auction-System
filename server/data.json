@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "name": "Audi 250",
+      "price": "700000",
+      "owner": "admiralty20",
+      "last_bidder": "james bomd"
+    },
+    {
+      "name": "Lamborghini S50",
+      "price": "200000",
+      "owner": "susaske40",
+      "last_bidder": "geraldt01"
+    },
+    {
+      "name": "Ferrari F560",
+      "price": "100000",
+      "owner": "samson35",
+      "last_bidder": "admiralty20"
+    },
+    {
+      "name": "scooty",
+      "price": "900",
+      "owner": "samargupta",
+      "last_bidder": "angrybird"
+    },
+    {
+      "name": "porsche 911 GT",
+      "price": "110670",
+      "owner": "rahuljain"
+    }
+  ]
+}
